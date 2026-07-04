@@ -15,21 +15,21 @@ This dashboard provides actionable insights into marketing campaigns by analyzin
 
 ## 🖼️ Dashboard Screenshots
 
-### 1️⃣ Campaign Performance
+### 1️⃣ Campaign_Performance
 ![Campaign Performance](Dashboard_Screenshots/Campaign_Performance.png)
 - Total sales by product category (Baked Goods, Fish, Fruit, Juices, Meat, Sweet)
 - Purchases and sales generated per campaign
 - Product purchase distribution by campaign
 - Top-performing platform (Store, Web, Catalog, Deals)
 
-### 2️⃣ Buyer Composition
+### 2️⃣ Buyer_Composition
 ![Buyer Composition](Dashboard_Screenshots/Buyer_Composition.png)
 - Customer demographics (Marital Status, Age, Income)
 - Education level analysis
 - Number of kids/teens per customer
 - Purchase preferences by age group
 
-### 3️⃣ Purchase Drivers
+### 3️⃣ Purchase_Drivers
 ![Purchase Drivers](Dashboard_Screenshots/Purchase_Drivers.png)
 - Key influencers for Campaign participation
 - Top segments driving Total Sale
