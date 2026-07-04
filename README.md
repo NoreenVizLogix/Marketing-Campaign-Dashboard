@@ -15,22 +15,22 @@ This dashboard provides actionable insights into marketing campaigns by analyzin
 
 ## 🖼️ Dashboard Screenshots
 
-### 1️⃣ Campaign_Performance
-![Campaign Performance](Dashboard_Screenshots/Campaign_Performance.png)
+### 1️⃣ Campaign Performance
+<img src="campaign_performance.png" width="100%">
 - Total sales by product category (Baked Goods, Fish, Fruit, Juices, Meat, Sweet)
 - Purchases and sales generated per campaign
 - Product purchase distribution by campaign
 - Top-performing platform (Store, Web, Catalog, Deals)
 
-### 2️⃣ Buyer_Composition
-![Buyer Composition](Dashboard_Screenshots/Buyer_Composition.png)
+### 2️⃣ Buyer Composition
+<img src="buyer_composition.png" width="100%">
 - Customer demographics (Marital Status, Age, Income)
 - Education level analysis
 - Number of kids/teens per customer
 - Purchase preferences by age group
 
-### 3️⃣ Purchase_Drivers
-![Purchase Drivers](Dashboard_Screenshots/Purchase_Drivers.png)
+### 3️⃣ Purchase Drivers
+<img src="purchase_drivers.png" width="100%">
 - Key influencers for Campaign participation
 - Top segments driving Total Sale
 - Income-level impact analysis
@@ -126,17 +126,6 @@ Browse the `Dashboard_Screenshots/` folder for visual previews.
 4. How does purchase preference change with age?
 5. What factors most influence campaign success?
 6. Which platform drives the highest sales?
-
----
-
-## 🤝 Contributing
-
-Contributions are welcome! To contribute:
-1. Fork this repository
-2. Create a new branch (`git checkout -b feature/Improvement`)
-3. Commit changes (`git commit -m 'Add new feature'`)
-4. Push to branch (`git push origin feature/Improvement`)
-5. Open a Pull Request
 
 ---
 
